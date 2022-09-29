@@ -1,0 +1,11 @@
+name: SpawnPlugin
+version: '${project.version}'
+main: me.staryybrodyga.spawnplugin.Plugin
+api-version: 1.16
+authors: [ StaryyBrodyga ]
+
+commands:
+  setspawn:
+    description: Set the server spawn point
+  spawn:
+    description: Spawn you at the spawn point
